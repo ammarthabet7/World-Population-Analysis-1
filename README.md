@@ -10,7 +10,7 @@ Problem statement :Now days, world is getting much bigger so its population. In 
 -	Complete data analysis using python tools.
 -	Interactive data analysis using power bi.
 
-#### Power Bi link: https://clipchamp.com/watch/qvuzS1bhiZ9
+
 
 <span style="color: #02d9fa">
 
